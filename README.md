@@ -23,6 +23,9 @@ CREDITOS:ERNESTOMERCADOREYES94
 
 Descarga **`Revisor de errores.exe`** y ábrelo. No hay que instalar nada.
 Necesita .NET Framework 4 (ya viene con Windows 10 y 11).
+si te da cosa tener muchosssss errores usa en cmd como admin se recomienda crear un punto de restauracion
+wevtutil cl System
+wevtutil cl Application
 
 ## ⚠️ Si sale "Windows protegió su PC" (SmartScreen)
 
